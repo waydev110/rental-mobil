@@ -6,7 +6,7 @@
 <div class="slideshowcontent">
 <div class="display-table">
 <div class="display-table-cell">
-<h1>KAMI SIAP MELAYANI ANDA !</h1>
+<h1>KAMI SIAP MELAYANI ANDA SEMUA !</h1>
 <p>ORDER SEKARANG<br> DANENDRA RENTAL MOBIL</p>
 <div class="book-ur-car">
 <form action="index2.html">
@@ -358,7 +358,7 @@
 <a href="index2.html#">Dodge Ram 1500</a>
 <span class="price"><i class="fa fa-tag"></i> $55/day</span>
 </h3>
-<h5>HATCHBACK</h5>    
+<h5>HATCHBACK</h5>
 <div class="p-car-feature">
 <a href="index2.html#">2017</a>
 <a href="index2.html#">manual</a>
